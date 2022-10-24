@@ -6,8 +6,8 @@ Instrucciones:
 2.Abrir terminal
 3.ejecutar el comando "npm install -g sass"
 4.Crear proyecto con archivo sass
-5.Ejecutar terminal dentro del proyecto
-6.En la Terminal ejecutar el siguiente comando " sass --watch style.scss style.css "
+5.Ejecutar terminal dentro del proyectosass --watch style.scss style.css
+6.En la Terminal ejecutar el siguiente comando "  "
 7.En HTML referenciar css <link rel="stylesheet" href="style.css">
 8.Listo! :D
 
